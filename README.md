@@ -2,8 +2,6 @@
 
 Soy un desarrollador full-stack apasionado por la tecnología, la innovación y la mejora continua. Mi enfoque está en escribir código limpio y escalable, y siempre estoy aprendiendo nuevas herramientas y metodologías. Me especializo en **java,nodejs,flutter,spring boot,nestjs,postgresql**.
 
-![Visita mi perfil](https://mroque.olmaton.com)
-
 ---
 
 ### 💼 **Experiencia**
